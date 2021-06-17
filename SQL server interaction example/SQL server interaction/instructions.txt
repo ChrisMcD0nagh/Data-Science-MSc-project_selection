@@ -1,0 +1,35 @@
+=====================================================================================================
+Instructions for running tasks 8 and 9 from the command line
+=====================================================================================================
+1. Add Ken's code (index.html. css/*, js/* etc..) to the folder STfDS_mini_project_code provided.
+2. Navigate to the STfDS_mini_project_code folder via the command line.
+3. To run the server from the command line use:
+	python3 server.py
+4. To run tasks 8 and 9 from the command line use the following: 
+    => task8_out.py:
+	python3 task8_out.py startdate enddate 
+	(where startdate and enddate have the format yyyymmddhhmm with time in 24-hr format)
+	e.g: python3 task8_out.py 202011251230 202011281630 
+
+    => task8_in.py:
+	python3 task8_in.py file.csv
+	(where file is the name of a correctly formatted csv file in the same folder)
+	e.g: python3 task8_in.py task8_in.csv
+
+    => task9_out.py:
+	python3 task9_out.py date
+	(where date is the format yyyymmdd)
+	e.g: python3 task9_out.py 20201128
+
+    => task9_in.py:
+	python3 task9_in.py file.csv
+	(where file is the name of a correctly formatted csv file in the same folder)
+	e.g: python3 task9_in.py task9_in.csv
+
+** NOTE **
+To reset the SQL database use the following command in the terminal:
+	
+	python3 initialse_database.py 
+
+This creates a fresh database which can be useful for testing the task 8 and 9 programs.
+=====================================================================================================
