@@ -1,4 +1,4 @@
-## A selection a Data Science MSc projects
+## A selection of my Data Science MSc projects
 This repository contains a representative selection of the various projects I have worked on throughout the Data Science Msc.
 
 
