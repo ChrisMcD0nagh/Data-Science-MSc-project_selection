@@ -6,7 +6,7 @@ Coursework mark: `95.5%`
 
 [Bayesian linear regression example.ipynb](https://github.com/ChrisMcD0nagh/Data-Science-MSc-project_selection/blob/main/Bayesian%20Machine%20Learning/Bayesian%20linear%20regression%20example) is an example of Bayesian linear regression to predict the heating load of buildings given structural quantities. This was the highest scoring work in the cohort of 75 students. 
 
-I am curently undertakin a reserach project that leverages Bayesian machine learning, using surrgoate modeeling for latent paramater estimation under supervisor Dr. Xi Chen. His prior work which my current reserach extends can be found [here](https://arxiv.org/abs/1901.08898).
+I am curently undertakin a reserach project that leverages Bayesian machine learning, using surrgoate modeeling for latent paramater estimation in a variety of scientific processes. This work is supervised by Dr. Xi Chen and his prior work which my current reserach extends can be found [here](https://arxiv.org/abs/1901.08898).
 
 ## Reinforcement Learning
 Coursework mark: `70.0%`
