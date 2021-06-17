@@ -15,3 +15,8 @@ Coursework mark: `70.0%`
 Coursework mark: `90.0%`
 
 [algorithms.py](https://github.com/ChrisMcD0nagh/Data-Science-MSc-project_selection/blob/main/Machine%20learning%20example/algorithms.py) contains linear regression, regression forest, Gaussian process and k-means algorithms coded from scratch. 
+
+## SQL server interaction 
+Coursework mark: `97.5%`
+
+[server.py](https://github.com/ChrisMcD0nagh/Data-Science-MSc-project_selection/blob/main/SQL%20server%20interaction%20example/server.py)
