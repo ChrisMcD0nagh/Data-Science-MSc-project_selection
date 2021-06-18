@@ -1,5 +1,5 @@
 # A selection of my Data Science MSc projects
-This repository contains a representative selection of the various projects I have worked on throughout the Data Science Msc.
+This repository contains a selection of the various projects I have worked on throughout the Data Science Msc.
 
 ## Bayesian Machine learning 
 Coursework mark: `95.5%`
