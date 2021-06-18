@@ -22,4 +22,4 @@ This folder contains several python scripts that were used in a coursework that 
 Coursework mark: `97.5%`
 
 This coursework invovled designing a backend to server to record traffic data, focussing on interacting with an SQL database to store and organsie data.
-[server.py](https://github.com/ChrisMcD0nagh/Data-Science-MSc-project_selection/blob/main/SQL%20server%20interaction%20example/server.py) conatins the code that defines the website functionality. 
+[server.py](https://github.com/ChrisMcD0nagh/Data-Science-MSc-project_selection/blob/main/SQL%20server%20interaction%20example/server.py) conatins the code that defines the website functionality. [initialise_database.py](https://github.com/ChrisMcD0nagh/Data-Science-MSc-project_selection/blob/main/SQL%20server%20interaction%20example/initialse_database.py) contains more example code that interacts with an SQL database.
