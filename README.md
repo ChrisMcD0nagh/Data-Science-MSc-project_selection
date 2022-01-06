@@ -11,7 +11,7 @@ I am curently undertaking a reserach project that leverages Bayesian machine lea
 ## Reinforcement Learning
 Coursework mark: `70.0%`
 
-[DQN_agent.ipynb](https://github.com/ChrisMcD0nagh/Data-Science-MSc-project_selection/blob/main/Deep%20reinforcement%20learning%20example/DQN_agent_no_tgt.py) uses neural networks for reinforcement learning (known as deep reinforcement learning). The project invovled training a [lunar module](https://gym.openai.com/envs/LunarLander-v2/) to land safely using fundamental reinforcement learning methods, including deep Q-network algorithms (DQN) shown in this file, to approximate the lunar modules value function.
+[DQN_agent.ipynb](https://github.com/ChrisMcD0nagh/Data-Science-MSc-project_selection/blob/main/Deep%20reinforcement%20learning%20example/DQN_agent.py) uses neural networks for reinforcement learning (known as deep reinforcement learning). The project invovled training a [lunar module](https://gym.openai.com/envs/LunarLander-v2/) to land safely using fundamental reinforcement learning methods, including deep Q-network algorithms (DQN) shown in this file, to approximate the lunar modules value function.
 
 ## Machine learning 
 Coursework mark: `90.0%`
